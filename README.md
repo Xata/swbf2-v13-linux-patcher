@@ -23,6 +23,6 @@ Make sure to install the `xdelta3` package for your distro. This assumes you hav
 3. Inside of the folder there is a folder named `old 1_3 patch stuff (went in Gamedata`, copy the folder named `v1.3patch` into a working directory
 4. Download the script from this repository
 5. Place the script inside of the `v1.3patch` folder, where the `menu.bat` file exists
-6. Run: `chmod +x install_script.sh`
-7. Run: `./install_script.sh`
+6. Run: `chmod +x install_patch.sh`
+7. Run: `./install_patch.sh`
 8. Should work! Enjoy a patched version of SWBF2 running on Linux!!!
