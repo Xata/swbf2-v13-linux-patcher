@@ -20,7 +20,7 @@ Make sure to install the `xdelta3` package for your distro. This assumes you hav
 
 1. Get the unofficial v1.3 patch from the link above
 2. Extract the patch from the .7z archive
-3. Inside of the folder there is a folder named `old 1_3 patch stuff (went in Gamedata`, copy the folder named `v1.3patch` into a working directory
+3. Inside of the folder there is a folder named `old 1_3 patch stuff` copy the folder named `v1.3patch` into a working directory
 4. Download the script from this repository
 5. Place the script inside of the `v1.3patch` folder, where the `menu.bat` file exists
 6. Run: `chmod +x install_patch.sh`
